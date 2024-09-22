@@ -32,7 +32,5 @@
 <img style="justify-content: center" alt="gif-gojo" src="file:///C:/Users/wesle/Downloads/gif%20gojo.gif">
 </div>
 
-![snake gif](https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif)
-
 
 
