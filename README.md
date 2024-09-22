@@ -28,9 +28,7 @@
 <img style="justify-content: center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img style="justify-content: center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-<div>
-<img style="justify-content: center" alt="gif-gojo" src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif">
-</div>
+![download (5) (1)](https://github.com/user-attachments/assets/868bda09-8ff6-4e8d-93d4-c4a5346bd008)
 
 
 
