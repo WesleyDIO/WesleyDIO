@@ -29,7 +29,7 @@
 <img style="justify-content: center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 <div>
-<img style="justify-content: center" alt="gif-gojo" src="file:///C:/Users/wesle/Downloads/gif%20gojo.gif">
+<img style="justify-content: center" alt="gif-gojo" src="https://github.com/user-attachments/assets/5812cb0f-0cca-4be7-8947-5c6afc6252c0">
 </div>
 
 
