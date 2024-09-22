@@ -1,5 +1,7 @@
 ### Olá! eu sou Wesley 👋
 
+![download (5) (1)](https://github.com/user-attachments/assets/868bda09-8ff6-4e8d-93d4-c4a5346bd008)
+
 ### Redes Sociais! #️⃣
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/)
@@ -28,7 +30,7 @@
 <img style="justify-content: center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img style="justify-content: center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-![download (5) (1)](https://github.com/user-attachments/assets/868bda09-8ff6-4e8d-93d4-c4a5346bd008)
+
 
 
 
