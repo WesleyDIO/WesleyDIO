@@ -29,7 +29,7 @@
 <img style="justify-content: center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 <div>
-<img style="justify-content: center" alt="gif-gojo" src="file:///C:/Users/wesle/Downloads/gif%20gojo.svg">
+<img style="justify-content: center" alt="gif-gojo" src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif">
 </div>
 
 
