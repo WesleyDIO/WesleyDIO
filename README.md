@@ -24,7 +24,7 @@
         <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </div>
     <div>
-        <img alt="gif-gojo" src="file:///C:/Users/wesle/Downloads/gif%20gojo.gif">
+        <img alt="" src="">
     </div>
     <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
