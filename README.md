@@ -1,4 +1,4 @@
-<div style="border: 2px solid #0077B5; border-radius: 15px; padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="border: 2px solid #0077B5; border-radius: 15px; padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 500px; height: auto;">
     <h3>Olá! eu sou Wesley 👋</h3>
     <h3>Redes Sociais! #️⃣</h3>
     <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
