@@ -14,7 +14,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDIO&layout=compact" alt="Top Languages">
         </div>
     </div>
-    <h3>Tecnologias utilizadas por mim!</h3>
+    <h3>Tecnologias</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; justify-items: center;">
         <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5">
         <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
