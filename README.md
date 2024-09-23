@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-     <div style="display: flex; flex-direction: row; justify-content: space-around; width: 100%;">
+     <div style="display: flex; flex-direction: row; justify-content: center; width: 100%;">
         <div style="text-align: center;">
             <h3>GitHub Stats ⭐</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=WesleyDIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
