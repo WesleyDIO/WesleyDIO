@@ -1,13 +1,19 @@
-<div style="border: 2px solid #0077B5; border-radius: 15px; padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 500px; height: auto;">
+<div style="border: 2px solid #0077B5; border-radius: 15px; padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 800px; height: auto;">
     <h3>Olá! eu sou Wesley 👋</h3>
     <h3>Redes Sociais! #️⃣</h3>
     <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <h3>GitHub Stats ⭐</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=WesleyDIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-    <h3>Linguagens!</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDIO&layout=compact" alt="Top Languages">
+     <div style="display: flex; flex-direction: row; justify-content: space-around; width: 100%;">
+        <div style="text-align: center;">
+            <h3>GitHub Stats ⭐</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=WesleyDIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+        </div>
+        <div style="text-align: center;">
+            <h3>Linguagens!</h3>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDIO&layout=compact" alt="Top Languages">
+        </div>
+    </div>
     <h3>Tecnologias utilizadas por mim!</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; justify-items: center;">
         <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
