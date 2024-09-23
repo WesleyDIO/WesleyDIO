@@ -9,7 +9,7 @@
     <h3>Linguagens!</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDIO&layout=compact" alt="Top Languages">
     <h3>Tecnologias utilizadas por mim!</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; justify-items: center;">
         <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -24,7 +24,7 @@
         <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </div>
     <div>
-        <img alt="" src="">
+        <img alt="gif-gojo" src="file:///C:/Users/wesle/Downloads/gif%20gojo.gif">
     </div>
     <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
