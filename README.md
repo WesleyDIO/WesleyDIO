@@ -1,16 +1,16 @@
 <div>
-    <div style="padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <div>
         <h3>Olá! eu sou Wesley 👋</h3>
         <h3>Redes Sociais! #️⃣</h3>
         <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <div>
-            <div style="text-align: center;">
+            <div>
                 <h3>GitHub Stats ⭐</h3>
                 <img src="https://github-readme-stats.vercel.app/api?username=WesleyDIO&show_icons=true&theme=tokyonight" alt="GitHub Stats">
             </div>
-            <div style="text-align: center;">
+            <div>
                 <h3>Linguagens!</h3>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDIO&layout=compact" alt="Top Languages">
             </div>
