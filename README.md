@@ -59,7 +59,4 @@
                 </a>
         </div>
     </div>
-    <div>
-        <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
-    </div>
 </div>
