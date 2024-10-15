@@ -21,8 +21,8 @@
     <div style="display: flex; justify-content:center ">
         <h3>Tecnologias</h3>
     </div>
-    <div  align="center" style="display:flex; justify-content:center;  gap: 10px;">
-        <div style="display: flex; flex-wrap:wrap; width: 35%;">
+    <div  display:flex; justify-content:center;  gap: 10px;>
+        <div display: flex; flex-wrap:wrap; width: 35%;>
             <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5">
                 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 </a>
