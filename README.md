@@ -16,11 +16,11 @@
             </div>
         </div>
     </div>
-    <div style="display: flex; justify-content:center ">
+    <div">
         <h3>Tecnologias</h3>
     </div>
-    <div style="display:flex; justify-content:center;  gap: 10px;">
-        <div style="display: flex; flex-wrap:wrap; width: 35%;">
+    <div">
+        <div">
             <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5">
                 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 </a>
@@ -59,7 +59,7 @@
                 </a>
         </div>
     </div>
-    <div style="display: flex; justify-content: center;  background-color:#0a0913" padding-top="2%">
+    <div>
         <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
     </div>
 </div>
