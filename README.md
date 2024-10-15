@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; align-content:center">
     <div style="padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <h3>Olá! eu sou Wesley 👋</h3>
         <h3>Redes Sociais! #️⃣</h3>
