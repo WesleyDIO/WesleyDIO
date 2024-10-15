@@ -19,8 +19,8 @@
     <div">
         <h3>Tecnologias</h3>
     </div>
-    <div">
-        <div">
+    <div>
+        <div style="display: inline-block" gap="10px">
             <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5">
                 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 </a>
