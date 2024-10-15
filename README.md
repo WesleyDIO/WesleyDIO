@@ -59,7 +59,7 @@
                 </a>
         </div>
     </div>
-    <div style="display: flex; justify-content: center; padding-top:2%; background-color:">
+    <div style="display: flex; justify-content: center; padding-top:2%; background-color:#0a0913">
         <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
     </div>
 </div>
