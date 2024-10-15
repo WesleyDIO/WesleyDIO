@@ -1,4 +1,4 @@
-<div>
+<div style="width: 100%;">
     <div style="padding: 20px; margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <h3>Olá! eu sou Wesley 👋</h3>
         <h3>Redes Sociais! #️⃣</h3>
@@ -59,7 +59,7 @@
                 </a>
         </div>
     </div>
-    <div style="display: flex; justify-content: center; padding-top:2%;">
+    <div style="display: flex; justify-content: center; padding-top:2%; background-color:">
         <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
     </div>
 </div>
