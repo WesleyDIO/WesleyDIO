@@ -18,7 +18,7 @@
     </div>
 <div >
 </div>
-    <div align="center">
+    <div align="center" style="display: inline_block">
     <h3>Tecnologias</h3>
     <div>
         <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5" style="margin: 5px; display: inline-block;">
