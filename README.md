@@ -37,49 +37,20 @@
     <div>
         <h3>Tecnologias</h3>
     </div>
-    <div>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-            <a href="https://www.w3schools.com/html/default.asp#gsc.tab=0&gsc.q=html5">
-                <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-            </a>
-            <a href="https://www.w3schools.com/css/">
-                <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-            </a>
-            <a href="https://reactnative.dev/">
-                <img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-            </a>
-            <a href="https://vuejs.org/">
-                <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-            </a>
-        </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-             <a href="https://angular.dev/">
-                <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-            </a>
-            <a href="https://tailwindcss.com/">
-                <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-            </a>
-            <a href="https://spring.io/projects/spring-boot">
-                <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-            </a>
-        </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-              <a href="https://www.java.com/pt-BR/">
-                <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-            </a>
-            <a href="https://www.typescriptlang.org/">
-                <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-            </a>
-            <a href="https://www.figma.com/pt-br/">
-                <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-            </a>
-            <a href="https://react.dev/">
-                <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-            </a>
-        </div>  
+        <p align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+        </p>
         <!-- Snake opcional -->
         <!-- 
         <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
