@@ -1,6 +1,21 @@
 <div>
     <div>
         <h3>Olá! eu sou Wesley 👋</h3>
+        <div>
+            <h3>Sobre mim 💻</h3>
+            <p>
+                Fui aprendiz do <strong>CentroWEG</strong> na área de Sistemas da Informação durante 2 anos, 
+                período no qual me formei e tive contato com diversas tecnologias presentes neste perfil.
+            </p>
+            <p>
+                Atualmente curso <strong>Engenharia de Software</strong> e busco evoluir constantemente na área de desenvolvimento. 
+                As linguagens com as quais possuo maior experiência são <strong>Java, JavaScript e Python</strong>.
+            </p>
+            <p>
+                Hoje atuo como <strong>Auxiliar Administrativo</strong>, desenvolvendo automações internas que auxiliam 
+                diferentes áreas da empresa onde trabalho, otimizando processos e aumentando a eficiência operacional.
+            </p>
+        </div>
         <h3>Redes Sociais! #️⃣</h3>
         <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
