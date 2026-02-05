@@ -51,7 +51,9 @@
             <a href="https://vuejs.org/">
                 <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
             </a>
-            <a href="https://angular.dev/">
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+             <a href="https://angular.dev/">
                 <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
             </a>
             <a href="https://tailwindcss.com/">
