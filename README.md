@@ -1,10 +1,6 @@
 <div>
     <div>
         <h3>Olá! eu sou Wesley 👋</h3>
-        <h3>Redes Sociais! #️⃣</h3>
-        <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
         <!-- SOBRE MIM -->
         <div>
             <h3>Sobre mim 💻</h3>
@@ -21,6 +17,10 @@
                 diferentes áreas da empresa onde trabalho, otimizando processos e aumentando a eficiência operacional.
             </p>
         </div>
+         <h3>Redes Sociais! #️⃣</h3>
+        <a href="https://www.linkedin.com/in/wesley-diorrani-ferreira-21492328b/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
         <!-- GITHUB STATS -->
         <div>
             <div>
