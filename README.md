@@ -62,7 +62,9 @@
             <a href="https://spring.io/projects/spring-boot">
                 <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
             </a>
-            <a href="https://www.java.com/pt-BR/">
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+              <a href="https://www.java.com/pt-BR/">
                 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -77,7 +79,7 @@
             <a href="https://react.dev/">
                 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
             </a>
-        </div>
+        </div>  
         <!-- Snake opcional -->
         <!-- 
         <img src="https://github.com/WesleyDIO/WesleyDIO/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
